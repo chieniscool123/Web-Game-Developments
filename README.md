@@ -7,7 +7,7 @@ Here is a log of my foundational projects, detailing the skills I learned along 
 ### 🪨📄✂️ Project 1: Rock, Paper, Scissors
 
 * **Date:** 11-29-2024 to 12-01-2024
-* **Live Demo:** [**Click to Play**](https://chieniscool123.github.io/Odin-Project/Rock_Paper_Scissors/index.html)
+* **Live Demo:** [**Click to Play**](https://chieniscool123.github.io/Web-Game-Developments/Rock_Paper_Scissors/index.html)
 
 #### What I Learned:
 * **Core JavaScript Logic:** Implemented game flow using `if/else` statements and `switch` cases.
@@ -25,7 +25,7 @@ Here is a log of my foundational projects, detailing the skills I learned along 
 ### 🎨 Project 2: Etch-a-Sketch
 
 * **Date:** (Late 2024) to 01-08-2025
-* **Live Demo:** [**Click to Play**](https://chieniscool123.github.io/Odin-Project/etch_a_sketch/index.html)
+* **Live Demo:** [**Click to Play**](https://chieniscool123.github.io/Web-Game-Developments/etch_a_sketch/index.html)
 
 #### What I Learned:
 * **DOM Manipulation:** Gained extensive experience in creating, modifying, and deleting HTML elements entirely with JavaScript.
@@ -39,7 +39,7 @@ Here is a log of my foundational projects, detailing the skills I learned along 
 ### 🧮 Project 3: Basic Calculator
 
 * **Date:** 01-09-2025 to 01-10-2025
-* **Live Demo:** [**Click to Play**](https://chieniscool123.github.io/Odin-Project/calculator/index.html)
+* **Live Demo:** [**Click to Play**](https://chieniscool123.github.io/Web-Game-Developments/calculator/index.html)
 
 #### What I Learned:
 * **Complex Problem Solving:** Practiced breaking down a larger-scale problem (calculator logic) into smaller, manageable functions and steps.

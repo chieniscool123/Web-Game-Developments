@@ -1,7 +1,16 @@
 ## 💻 Developer Log & Portfolio
 
-Here is a log of my foundational projects, detailing the skills I learned along the way.
+This repository contains my foundational web development projects, completed as part of The Odin Project (TOP) curriculum. This self-directed work was critical for establishing proficiency in core front-end technologies and essential programming logic within a Linux development environment.
 
+Technologies: HTML, CSS, JavaScript, Linux/Virtual Environments.
+
+Key Project Highlights:
+
+JavaScript Calculator: A fully functional application built to solidify skills in complex DOM manipulation and state management.
+
+Etch-a-Sketch: An interactive drawing grid project used to master event handling and dynamic CSS grid generation.
+
+Rock Paper Scissors: A classic game developed to implement robust game loop logic, conditional scorin
 ---
 
 ### 🪨📄✂️ Project 1: Rock, Paper, Scissors
